@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QR CodeScanner</string>
+    <string name="title_home">Home</string>
+    <string name="qr_history">QR History</string>
+    <string name="start_scan">Start Scan</string>
+    <string name="scan_again">Scan Again</string>
+    <string name="req_permission">Please accept permissions in order to continue</string>
+    <string name="detect_error">Error in detecing QR code! Please scan again</string>
+    <string name="qr_data">QR Code Details</string>
+    <string name="no_data">NO DATA AVAILABLE</string>
+    <string name="voice_onsucess">You have successfully scanned the QR Code</string>
+</resources>
